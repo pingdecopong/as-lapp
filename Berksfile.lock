@@ -4,12 +4,12 @@ DEPENDENCIES
     metadata: true
 
 GRAPH
-  as-apache2 (0.0.3)
-  as-lapp (0.0.1)
+  as-apache2 (0.0.7)
+  as-lapp (0.0.2)
     as-apache2 (>= 0.0.0)
     as-php (>= 0.0.0)
     as-postgresql (>= 0.0.0)
-  as-php (0.0.2)
+  as-php (0.0.3)
     yum-epel (>= 0.0.0)
     yum-remi (>= 0.0.0)
   as-postgresql (0.0.1)
